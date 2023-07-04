@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color:brown;
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+}
+img{
+    width: 200px;
+}
